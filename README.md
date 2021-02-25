@@ -7,4 +7,9 @@ Surveillance systems are an essential part of securing your home or business. Th
 
 - Set `width` & `height` to 640 & 480.
 - `framerate` anywhere in between 1000 to 1500.
-- 
+
+- Keep `Stream_port` to 8081.
+- `Stream_quality` should be 100.
+- Change `Stream_localhost` to OFF.
+- Set `quality` to 100.
+- ctrl + x
