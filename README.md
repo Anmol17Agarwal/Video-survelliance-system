@@ -13,3 +13,16 @@ Surveillance systems are an essential part of securing your home or business. Th
 - Change `Stream_localhost` to OFF.
 - Set `quality` to 100.
 - ctrl + x
+
+`sudo nano /etc/default/motion` 
+
+` start_motion_daemon` to yes.
+
+
+
+`sudo service motion restart`
+
+sudo motion
+
+
+192.168.0.107:8081
